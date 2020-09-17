@@ -33,3 +33,7 @@ All we ask is that you keep things in _alphabetical order by last name_.
   - **Interests:** Programming (In Rust, maybe a little haskell, C/Java maybe), Skateboarding, Gaming (not as much anymore :( ), Math, Physics
   - **Working On:** [rmpc (semi-active)](https://git.cryptid.cc/lost/rmpc) and [kraken_api (inactive as of now)](https://git.cryptid.cc/lost/kraken_api)
   - **Looking For:** Collaboration on smaller projects, or any project really, just looking for people that enjoy programming and publishing their work under free licenses.
+
+- [Brennan Wilkes](https://bw.codexwilkes.com) - Computer Science student
+  - **Socials:** [github](https://github.com/brennanwilkes), [instagram](https://www.instagram.com/br.wilkes/?hl=en)
+  - **Working On:** a revolving door of C, JS, Bash, and Godot projects. They’re all on github. I like collaborating!
